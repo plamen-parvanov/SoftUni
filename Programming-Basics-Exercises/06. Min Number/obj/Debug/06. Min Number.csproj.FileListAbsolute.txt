@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Min Number\bin\Debug\_06.Min_Number.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Min Number\bin\Debug\_06.Min_Number.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Min Number\bin\Debug\_06.Min_Number.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Min Number\obj\Debug\06. Min Number.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Min Number\obj\Debug\_06.Min_Number.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Min Number\obj\Debug\_06.Min_Number.pdb

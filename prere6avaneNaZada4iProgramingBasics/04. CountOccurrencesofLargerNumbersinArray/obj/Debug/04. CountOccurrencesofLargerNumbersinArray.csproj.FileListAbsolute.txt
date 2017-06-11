@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. CountOccurrencesofLargerNumbersinArray\bin\Debug\_04.CountOccurrencesofLargerNumbersinArray.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. CountOccurrencesofLargerNumbersinArray\bin\Debug\_04.CountOccurrencesofLargerNumbersinArray.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. CountOccurrencesofLargerNumbersinArray\bin\Debug\_04.CountOccurrencesofLargerNumbersinArray.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. CountOccurrencesofLargerNumbersinArray\obj\Debug\04. CountOccurrencesofLargerNumbersinArray.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. CountOccurrencesofLargerNumbersinArray\obj\Debug\_04.CountOccurrencesofLargerNumbersinArray.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. CountOccurrencesofLargerNumbersinArray\obj\Debug\_04.CountOccurrencesofLargerNumbersinArray.pdb

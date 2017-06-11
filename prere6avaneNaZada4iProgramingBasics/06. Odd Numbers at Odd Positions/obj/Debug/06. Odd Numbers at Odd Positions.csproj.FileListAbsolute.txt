@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Odd Numbers at Odd Positions\obj\Debug\06. Odd Numbers at Odd Positions.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Odd Numbers at Odd Positions\obj\Debug\_06.Odd_Numbers_at_Odd_Positions.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Odd Numbers at Odd Positions\obj\Debug\_06.Odd_Numbers_at_Odd_Positions.pdb

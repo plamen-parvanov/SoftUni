@@ -1,0 +1,6 @@
+c:\users\parvanovi\documents\visual studio 2015\Projects\AreaPerimeterOfCircle\AreaPerimeterOfCircle\bin\Debug\AreaPerimeterOfCircle.exe.config
+c:\users\parvanovi\documents\visual studio 2015\Projects\AreaPerimeterOfCircle\AreaPerimeterOfCircle\bin\Debug\AreaPerimeterOfCircle.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\AreaPerimeterOfCircle\AreaPerimeterOfCircle\bin\Debug\AreaPerimeterOfCircle.pdb
+c:\users\parvanovi\documents\visual studio 2015\Projects\AreaPerimeterOfCircle\AreaPerimeterOfCircle\obj\Debug\AreaPerimeterOfCircle.csprojResolveAssemblyReference.cache
+c:\users\parvanovi\documents\visual studio 2015\Projects\AreaPerimeterOfCircle\AreaPerimeterOfCircle\obj\Debug\AreaPerimeterOfCircle.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\AreaPerimeterOfCircle\AreaPerimeterOfCircle\obj\Debug\AreaPerimeterOfCircle.pdb

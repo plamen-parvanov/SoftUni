@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Square of Stars\bin\Debug\03.Square of Stars.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Square of Stars\bin\Debug\03.Square of Stars.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Square of Stars\bin\Debug\03.Square of Stars.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Square of Stars\obj\Debug\03.Square of Stars.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Square of Stars\obj\Debug\03.Square of Stars.pdb

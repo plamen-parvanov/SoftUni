@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Stop\bin\Debug\05.Stop.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Stop\bin\Debug\05.Stop.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Stop\bin\Debug\05.Stop.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Stop\obj\Debug\05.Stop.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Stop\obj\Debug\05.Stop.pdb

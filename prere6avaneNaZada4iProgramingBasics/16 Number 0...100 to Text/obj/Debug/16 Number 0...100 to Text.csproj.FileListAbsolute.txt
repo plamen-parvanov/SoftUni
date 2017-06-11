@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\16 Number 0...100 to Text\bin\Debug\_16_Number_0._._._100_to_Text.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\16 Number 0...100 to Text\bin\Debug\_16_Number_0._._._100_to_Text.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\16 Number 0...100 to Text\bin\Debug\_16_Number_0._._._100_to_Text.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\16 Number 0...100 to Text\obj\Debug\16 Number 0...100 to Text.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\16 Number 0...100 to Text\obj\Debug\_16_Number_0._._._100_to_Text.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\16 Number 0...100 to Text\obj\Debug\_16_Number_0._._._100_to_Text.pdb

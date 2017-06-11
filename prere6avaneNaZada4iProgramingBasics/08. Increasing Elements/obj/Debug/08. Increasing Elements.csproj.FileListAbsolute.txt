@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Increasing Elements\bin\Debug\_08.Increasing_Elements.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Increasing Elements\bin\Debug\_08.Increasing_Elements.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Increasing Elements\bin\Debug\_08.Increasing_Elements.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Increasing Elements\obj\Debug\08. Increasing Elements.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Increasing Elements\obj\Debug\_08.Increasing_Elements.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Increasing Elements\obj\Debug\_08.Increasing_Elements.pdb

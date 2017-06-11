@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Repair tiles\bin\Debug\01.Repair tiles.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Repair tiles\bin\Debug\01.Repair tiles.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Repair tiles\bin\Debug\01.Repair tiles.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Repair tiles\obj\Debug\01.Repair tiles.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Repair tiles\obj\Debug\01.Repair tiles.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Repair tiles\obj\Debug\01.Repair tiles.pdb

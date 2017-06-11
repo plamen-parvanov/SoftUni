@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Back in 30 Minutes\obj\Debug\_03.Back_in_30_Minutes.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Back in 30 Minutes\obj\Debug\_03.Back_in_30_Minutes.pdb

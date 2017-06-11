@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Numbers in Reversed Order\obj\Debug\04. Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

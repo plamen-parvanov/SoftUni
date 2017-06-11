@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04 smart Lili\bin\Debug\04 smart Lili.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04 smart Lili\bin\Debug\04 smart Lili.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04 smart Lili\bin\Debug\04 smart Lili.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04 smart Lili\obj\Debug\04 smart Lili.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04 smart Lili\obj\Debug\04 smart Lili.pdb

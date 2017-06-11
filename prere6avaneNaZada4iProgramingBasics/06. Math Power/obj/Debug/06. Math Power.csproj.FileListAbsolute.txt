@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Math Power\bin\Debug\_06.Math_Power.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Math Power\bin\Debug\_06.Math_Power.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Math Power\bin\Debug\_06.Math_Power.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Math Power\obj\Debug\_06.Math_Power.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Math Power\obj\Debug\_06.Math_Power.pdb

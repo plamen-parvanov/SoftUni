@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 06 - Control Number\bin\Debug\Problem 06 - Control Number.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 06 - Control Number\bin\Debug\Problem 06 - Control Number.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 06 - Control Number\bin\Debug\Problem 06 - Control Number.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 06 - Control Number\obj\Debug\Problem 06 - Control Number.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 06 - Control Number\obj\Debug\Problem 06 - Control Number.pdb

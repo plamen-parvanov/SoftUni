@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Fibonacci Numbers\obj\Debug\05. Fibonacci Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.pdb

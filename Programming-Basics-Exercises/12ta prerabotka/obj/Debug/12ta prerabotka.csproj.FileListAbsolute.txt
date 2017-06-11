@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\12ta prerabotka\bin\Debug\12ta prerabotka.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\12ta prerabotka\bin\Debug\12ta prerabotka.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\12ta prerabotka\bin\Debug\12ta prerabotka.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\12ta prerabotka\obj\Debug\12ta prerabotka.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\12ta prerabotka\obj\Debug\12ta prerabotka.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\12ta prerabotka\obj\Debug\12ta prerabotka.pdb

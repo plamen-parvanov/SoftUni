@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication101. Money\bin\Debug\ConsoleApplication101.Money.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication101. Money\bin\Debug\ConsoleApplication101.Money.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication101. Money\bin\Debug\ConsoleApplication101.Money.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication101. Money\obj\Debug\ConsoleApplication101. Money.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication101. Money\obj\Debug\ConsoleApplication101.Money.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication101. Money\obj\Debug\ConsoleApplication101.Money.pdb

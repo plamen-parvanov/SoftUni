@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Equal Pairs\obj\Debug\12. Equal Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.pdb

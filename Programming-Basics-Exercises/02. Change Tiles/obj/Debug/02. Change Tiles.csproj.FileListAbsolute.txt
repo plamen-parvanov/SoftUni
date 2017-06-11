@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Change Tiles\bin\Debug\_02.Change_Tiles.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Change Tiles\obj\Debug\_02.Change_Tiles.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Change Tiles\obj\Debug\_02.Change_Tiles.pdb

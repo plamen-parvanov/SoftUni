@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02 - Work hours\bin\Debug\02 - Work hours.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02 - Work hours\bin\Debug\02 - Work hours.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02 - Work hours\bin\Debug\02 - Work hours.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02 - Work hours\obj\Debug\02 - Work hours.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02 - Work hours\obj\Debug\02 - Work hours.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02 - Work hours\obj\Debug\02 - Work hours.pdb

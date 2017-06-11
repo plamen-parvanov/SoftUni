@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Most Frequent Numberr\bin\Debug\_08.Most_Frequent_Numberr.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Most Frequent Numberr\obj\Debug\_08.Most_Frequent_Numberr.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Most Frequent Numberr\obj\Debug\_08.Most_Frequent_Numberr.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Most Frequent Numberr\bin\Debug\_08.Most_Frequent_Numberr.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Most Frequent Numberr\bin\Debug\_08.Most_Frequent_Numberr.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Most Frequent Numberr\obj\Debug\08. 90 ot 100 Most Frequent Numberr.csprojResolveAssemblyReference.cache

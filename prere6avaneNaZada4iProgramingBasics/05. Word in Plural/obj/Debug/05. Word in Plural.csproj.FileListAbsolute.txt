@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Word in Plural\bin\Debug\_05.Word_in_Plural.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Word in Plural\obj\Debug\05. Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Word in Plural\obj\Debug\_05.Word_in_Plural.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Word in Plural\obj\Debug\_05.Word_in_Plural.pdb

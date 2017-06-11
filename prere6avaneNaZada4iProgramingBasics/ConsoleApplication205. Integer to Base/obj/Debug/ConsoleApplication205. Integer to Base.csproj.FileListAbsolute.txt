@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication205. Integer to Base\bin\Debug\ConsoleApplication205.Integer_to_Base.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication205. Integer to Base\bin\Debug\ConsoleApplication205.Integer_to_Base.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication205. Integer to Base\bin\Debug\ConsoleApplication205.Integer_to_Base.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication205. Integer to Base\obj\Debug\ConsoleApplication205. Integer to Base.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication205. Integer to Base\obj\Debug\ConsoleApplication205.Integer_to_Base.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication205. Integer to Base\obj\Debug\ConsoleApplication205.Integer_to_Base.pdb

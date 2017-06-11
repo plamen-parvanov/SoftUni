@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 2 – Grand Theft Examo\bin\Debug\Problem 2 – Grand Theft Examo.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 2 – Grand Theft Examo\bin\Debug\Problem 2 – Grand Theft Examo.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 2 – Grand Theft Examo\bin\Debug\Problem 2 – Grand Theft Examo.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 2 – Grand Theft Examo\obj\Debug\Problem 2 – Grand Theft Examo.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 2 – Grand Theft Examo\obj\Debug\Problem 2 – Grand Theft Examo.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 2 – Grand Theft Examo\obj\Debug\Problem 2 – Grand Theft Examo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Largest Common Endd\bin\Debug\_01.Largest_Common_Endd.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Largest Common Endd\obj\Debug\01. Largest Common Endd.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Largest Common Endd\bin\Debug\_01.Largest_Common_Endd.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Largest Common Endd\bin\Debug\_01.Largest_Common_Endd.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Largest Common Endd\obj\Debug\_01.Largest_Common_Endd.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Largest Common Endd\obj\Debug\_01.Largest_Common_Endd.pdb

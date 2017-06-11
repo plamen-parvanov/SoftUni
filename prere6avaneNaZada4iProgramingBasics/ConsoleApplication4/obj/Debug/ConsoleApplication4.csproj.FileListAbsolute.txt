@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

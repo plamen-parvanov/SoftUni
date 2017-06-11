@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.pdb

@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Date after 5 Days\bin\Debug\_05.Date_after_5_Days.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Date after 5 Days\bin\Debug\_05.Date_after_5_Days.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Date after 5 Days\bin\Debug\_05.Date_after_5_Days.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Date after 5 Days\obj\Debug\05. Date after 5 Days.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Date after 5 Days\obj\Debug\_05.Date_after_5_Days.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Date after 5 Days\obj\Debug\_05.Date_after_5_Days.pdb

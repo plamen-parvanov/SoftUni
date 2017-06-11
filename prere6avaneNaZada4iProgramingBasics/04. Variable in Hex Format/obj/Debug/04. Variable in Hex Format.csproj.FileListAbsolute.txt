@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

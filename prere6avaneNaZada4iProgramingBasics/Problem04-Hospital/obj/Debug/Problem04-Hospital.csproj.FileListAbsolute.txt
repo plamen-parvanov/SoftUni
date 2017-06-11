@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem04-Hospital\bin\Debug\Problem04-Hospital.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem04-Hospital\bin\Debug\Problem04-Hospital.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem04-Hospital\bin\Debug\Problem04-Hospital.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem04-Hospital\obj\Debug\Problem04-Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem04-Hospital\obj\Debug\Problem04-Hospital.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem04-Hospital\obj\Debug\Problem04-Hospital.pdb

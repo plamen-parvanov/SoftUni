@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\14.Area of Figures\bin\Debug\14.Area of Figures.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\14.Area of Figures\bin\Debug\14.Area of Figures.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\14.Area of Figures\bin\Debug\14.Area of Figures.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\14.Area of Figures\obj\Debug\14.Area of Figures.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\14.Area of Figures\obj\Debug\14.Area of Figures.pdb

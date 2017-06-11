@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Circle Area and Perimeter\obj\Debug\06. Circle Area and Perimeter.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Circle Area and Perimeter\obj\Debug\_06.Circle_Area_and_Perimeter.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Circle Area and Perimeter\obj\Debug\_06.Circle_Area_and_Perimeter.pdb

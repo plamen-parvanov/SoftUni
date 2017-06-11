@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Point on Rectangle Border\obj\Debug\06. Point on Rectangle Border.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.pdb

@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09. Perfect Diamond\bin\Debug\_09.Perfect_Diamond.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09. Perfect Diamond\bin\Debug\_09.Perfect_Diamond.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09. Perfect Diamond\bin\Debug\_09.Perfect_Diamond.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09. Perfect Diamond\obj\Debug\09. Perfect Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09. Perfect Diamond\obj\Debug\_09.Perfect_Diamond.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09. Perfect Diamond\obj\Debug\_09.Perfect_Diamond.pdb

@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Triangle Area\bin\Debug\_01.Triangle_Area.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Triangle Area\bin\Debug\_01.Triangle_Area.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Triangle Area\bin\Debug\_01.Triangle_Area.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Triangle Area\obj\Debug\01. Triangle Area.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Triangle Area\obj\Debug\_01.Triangle_Area.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Triangle Area\obj\Debug\_01.Triangle_Area.pdb

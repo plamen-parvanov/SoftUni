@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Centuries to Minutes\obj\Debug\01. Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.pdb

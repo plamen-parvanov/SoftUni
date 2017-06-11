@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Number 100...200\bin\Debug\Number_100._._._200.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Number 100...200\bin\Debug\Number_100._._._200.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Number 100...200\bin\Debug\Number_100._._._200.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Number 100...200\obj\Debug\Number_100._._._200.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Number 100...200\obj\Debug\Number_100._._._200.pdb

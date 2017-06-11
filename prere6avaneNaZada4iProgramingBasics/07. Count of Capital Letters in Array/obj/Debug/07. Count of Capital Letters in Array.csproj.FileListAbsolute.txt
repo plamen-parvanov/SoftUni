@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count of Capital Letters in Array\bin\Debug\_07.Count_of_Capital_Letters_in_Array.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count of Capital Letters in Array\bin\Debug\_07.Count_of_Capital_Letters_in_Array.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count of Capital Letters in Array\bin\Debug\_07.Count_of_Capital_Letters_in_Array.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count of Capital Letters in Array\obj\Debug\_07.Count_of_Capital_Letters_in_Array.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count of Capital Letters in Array\obj\Debug\_07.Count_of_Capital_Letters_in_Array.pdb

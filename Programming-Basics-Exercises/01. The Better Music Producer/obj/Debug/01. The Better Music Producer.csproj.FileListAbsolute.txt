@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01. The Better Music Producer\bin\Debug\_01.The_Better_Music_Producer.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01. The Better Music Producer\bin\Debug\_01.The_Better_Music_Producer.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01. The Better Music Producer\bin\Debug\_01.The_Better_Music_Producer.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01. The Better Music Producer\obj\Debug\01. The Better Music Producer.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01. The Better Music Producer\obj\Debug\_01.The_Better_Music_Producer.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01. The Better Music Producer\obj\Debug\_01.The_Better_Music_Producer.pdb

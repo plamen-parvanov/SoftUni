@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Hello, Name\bin\Debug\_01.Hello__Name.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Hello, Name\bin\Debug\_01.Hello__Name.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Hello, Name\bin\Debug\_01.Hello__Name.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Hello, Name\obj\Debug\01. Hello, Name.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Hello, Name\obj\Debug\_01.Hello__Name.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Hello, Name\obj\Debug\_01.Hello__Name.pdb

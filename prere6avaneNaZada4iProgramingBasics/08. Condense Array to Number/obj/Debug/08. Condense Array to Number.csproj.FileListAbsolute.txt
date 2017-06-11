@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

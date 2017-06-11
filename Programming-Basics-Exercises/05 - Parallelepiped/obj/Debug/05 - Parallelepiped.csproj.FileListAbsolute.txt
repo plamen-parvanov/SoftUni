@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05 - Parallelepiped\bin\Debug\05 - Parallelepiped.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05 - Parallelepiped\bin\Debug\05 - Parallelepiped.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05 - Parallelepiped\bin\Debug\05 - Parallelepiped.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05 - Parallelepiped\obj\Debug\05 - Parallelepiped.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05 - Parallelepiped\obj\Debug\05 - Parallelepiped.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05 - Parallelepiped\obj\Debug\05 - Parallelepiped.csprojResolveAssemblyReference.cache

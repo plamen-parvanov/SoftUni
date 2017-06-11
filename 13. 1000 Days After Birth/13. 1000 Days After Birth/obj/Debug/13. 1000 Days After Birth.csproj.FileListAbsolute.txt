@@ -1,0 +1,6 @@
+c:\users\parvanovi\documents\visual studio 2015\Projects\13. 1000 Days After Birth\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.exe.config
+c:\users\parvanovi\documents\visual studio 2015\Projects\13. 1000 Days After Birth\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.csprojResolveAssemblyReference.cache
+c:\users\parvanovi\documents\visual studio 2015\Projects\13. 1000 Days After Birth\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\13. 1000 Days After Birth\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.pdb
+c:\users\parvanovi\documents\visual studio 2015\Projects\13. 1000 Days After Birth\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\13. 1000 Days After Birth\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.pdb

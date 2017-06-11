@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Last 3 Consecutive Equal Strings\bin\Debug\_01.Last_3_Consecutive_Equal_Strings.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Last 3 Consecutive Equal Strings\bin\Debug\_01.Last_3_Consecutive_Equal_Strings.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Last 3 Consecutive Equal Strings\bin\Debug\_01.Last_3_Consecutive_Equal_Strings.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Last 3 Consecutive Equal Strings\obj\Debug\01. Last 3 Consecutive Equal Strings.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Last 3 Consecutive Equal Strings\obj\Debug\_01.Last_3_Consecutive_Equal_Strings.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Last 3 Consecutive Equal Strings\obj\Debug\_01.Last_3_Consecutive_Equal_Strings.pdb

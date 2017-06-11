@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14 Time + 15 Minutes\bin\Debug\14 Time + 15 Minutes.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14 Time + 15 Minutes\bin\Debug\14 Time + 15 Minutes.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14 Time + 15 Minutes\bin\Debug\14 Time + 15 Minutes.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14 Time + 15 Minutes\obj\Debug\14 Time + 15 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14 Time + 15 Minutes\obj\Debug\14 Time + 15 Minutes.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14 Time + 15 Minutes\obj\Debug\14 Time + 15 Minutes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Match Tickets\bin\Debug\_03.Match_Tickets.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Match Tickets\bin\Debug\_03.Match_Tickets.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Match Tickets\bin\Debug\_03.Match_Tickets.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Match Tickets\obj\Debug\03. Match Tickets.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Match Tickets\obj\Debug\_03.Match_Tickets.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Match Tickets\obj\Debug\_03.Match_Tickets.pdb

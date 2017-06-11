@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Training Hall Equipment\obj\Debug\07. Training Hall Equipment.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.pdb

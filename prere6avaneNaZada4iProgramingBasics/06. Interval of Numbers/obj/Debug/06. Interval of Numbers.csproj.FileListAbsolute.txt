@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Interval of Numbers\obj\Debug\06. Interval of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.pdb

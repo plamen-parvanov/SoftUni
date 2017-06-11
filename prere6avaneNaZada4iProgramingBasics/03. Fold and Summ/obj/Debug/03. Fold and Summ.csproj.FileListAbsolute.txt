@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Fold and Summ\bin\Debug\_03.Fold_and_Summ.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Fold and Summ\bin\Debug\_03.Fold_and_Summ.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Fold and Summ\bin\Debug\_03.Fold_and_Summ.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Fold and Summ\obj\Debug\03. Fold and Summ.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Fold and Summ\obj\Debug\_03.Fold_and_Summ.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Fold and Summ\obj\Debug\_03.Fold_and_Summ.pdb

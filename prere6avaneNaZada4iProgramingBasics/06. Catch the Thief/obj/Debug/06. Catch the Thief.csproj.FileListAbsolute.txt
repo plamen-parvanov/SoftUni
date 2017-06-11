@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Catch the Thief\obj\Debug\06. Catch the Thief.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Catch the Thief\obj\Debug\_06.Catch_the_Thief.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Catch the Thief\obj\Debug\_06.Catch_the_Thief.pdb

@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03. Flowers\obj\Debug\Problem 03. Flowers.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03. Flowers\obj\Debug\Problem_03.Flowers.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03. Flowers\obj\Debug\Problem_03.Flowers.pdb

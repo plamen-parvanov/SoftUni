@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Boat Simulator\obj\Debug\14. Boat Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Boat Simulator\obj\Debug\_14.Boat_Simulator.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Boat Simulator\obj\Debug\_14.Boat_Simulator.pdb

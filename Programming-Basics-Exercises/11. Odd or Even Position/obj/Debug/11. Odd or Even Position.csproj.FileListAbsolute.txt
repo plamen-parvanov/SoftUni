@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Odd or Even Position\bin\Debug\_11.Odd_or_Even_Position.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Odd or Even Position\bin\Debug\_11.Odd_or_Even_Position.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Odd or Even Position\bin\Debug\_11.Odd_or_Even_Position.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Odd or Even Position\obj\Debug\11. Odd or Even Position.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Odd or Even Position\obj\Debug\_11.Odd_or_Even_Position.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Odd or Even Position\obj\Debug\_11.Odd_or_Even_Position.pdb

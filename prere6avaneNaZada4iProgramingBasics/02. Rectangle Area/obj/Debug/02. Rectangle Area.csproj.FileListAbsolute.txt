@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

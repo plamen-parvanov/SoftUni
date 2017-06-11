@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number Lab\bin\Debug\_08.Condense_Array_to_Number_Lab.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number Lab\bin\Debug\_08.Condense_Array_to_Number_Lab.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number Lab\bin\Debug\_08.Condense_Array_to_Number_Lab.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number Lab\obj\Debug\08. Condense Array to Number Lab.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number Lab\obj\Debug\_08.Condense_Array_to_Number_Lab.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Condense Array to Number Lab\obj\Debug\_08.Condense_Array_to_Number_Lab.pdb

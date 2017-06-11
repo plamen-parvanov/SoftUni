@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Multiply an Array of Doubles\obj\Debug\_02.Multiply_an_Array_of_Doubles.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Multiply an Array of Doubles\obj\Debug\_02.Multiply_an_Array_of_Doubles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Sudoku Results\obj\Debug\02. Sudoku Results.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Sudoku Results\obj\Debug\_02.Sudoku_Results.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\02. Sudoku Results\obj\Debug\_02.Sudoku_Results.pdb

@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Vegetable\bin\Debug\01.Vegetable.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Vegetable\bin\Debug\01.Vegetable.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Vegetable\bin\Debug\01.Vegetable.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Vegetable\obj\Debug\01.Vegetable.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Vegetable\obj\Debug\01.Vegetable.pdb

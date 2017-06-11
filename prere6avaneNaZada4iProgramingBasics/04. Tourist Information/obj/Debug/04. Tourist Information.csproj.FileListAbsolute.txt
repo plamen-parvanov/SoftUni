@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Tourist Information\bin\Debug\_04.Tourist_Information.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Tourist Information\obj\Debug\_04.Tourist_Information.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Tourist Information\obj\Debug\_04.Tourist_Information.pdb

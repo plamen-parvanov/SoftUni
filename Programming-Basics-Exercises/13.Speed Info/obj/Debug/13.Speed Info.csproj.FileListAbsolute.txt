@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\13.Speed Info\bin\Debug\13.Speed Info.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\13.Speed Info\bin\Debug\13.Speed Info.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\13.Speed Info\bin\Debug\13.Speed Info.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\13.Speed Info\obj\Debug\13.Speed Info.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\13.Speed Info\obj\Debug\13.Speed Info.pdb

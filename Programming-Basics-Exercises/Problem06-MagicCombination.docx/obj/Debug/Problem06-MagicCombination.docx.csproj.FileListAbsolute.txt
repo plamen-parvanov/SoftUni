@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem06-MagicCombination.docx\bin\Debug\Problem06-MagicCombination.docx.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem06-MagicCombination.docx\bin\Debug\Problem06-MagicCombination.docx.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem06-MagicCombination.docx\bin\Debug\Problem06-MagicCombination.docx.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem06-MagicCombination.docx\obj\Debug\Problem06-MagicCombination.docx.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem06-MagicCombination.docx\obj\Debug\Problem06-MagicCombination.docx.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem06-MagicCombination.docx\obj\Debug\Problem06-MagicCombination.docx.pdb

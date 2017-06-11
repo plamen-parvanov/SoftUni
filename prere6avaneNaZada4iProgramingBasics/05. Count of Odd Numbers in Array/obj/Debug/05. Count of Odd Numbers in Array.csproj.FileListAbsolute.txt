@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Count of Odd Numbers in Array\obj\Debug\05. Count of Odd Numbers in Array.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Count of Odd Numbers in Array\obj\Debug\_05.Count_of_Odd_Numbers_in_Array.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Count of Odd Numbers in Array\obj\Debug\_05.Count_of_Odd_Numbers_in_Array.pdb

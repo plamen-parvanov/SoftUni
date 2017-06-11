@@ -1,0 +1,6 @@
+c:\users\parvanovi\documents\visual studio 2015\Projects\09. Celsius to Fahrenheit\09. Celsius to Fahrenheit\bin\Debug\_09.Celsius_to_Fahrenheit.exe.config
+c:\users\parvanovi\documents\visual studio 2015\Projects\09. Celsius to Fahrenheit\09. Celsius to Fahrenheit\bin\Debug\_09.Celsius_to_Fahrenheit.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\09. Celsius to Fahrenheit\09. Celsius to Fahrenheit\bin\Debug\_09.Celsius_to_Fahrenheit.pdb
+c:\users\parvanovi\documents\visual studio 2015\Projects\09. Celsius to Fahrenheit\09. Celsius to Fahrenheit\obj\Debug\09. Celsius to Fahrenheit.csprojResolveAssemblyReference.cache
+c:\users\parvanovi\documents\visual studio 2015\Projects\09. Celsius to Fahrenheit\09. Celsius to Fahrenheit\obj\Debug\_09.Celsius_to_Fahrenheit.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\09. Celsius to Fahrenheit\09. Celsius to Fahrenheit\obj\Debug\_09.Celsius_to_Fahrenheit.pdb

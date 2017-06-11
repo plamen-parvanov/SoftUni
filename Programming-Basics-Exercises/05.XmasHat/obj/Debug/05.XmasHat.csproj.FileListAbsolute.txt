@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.XmasHat\bin\Debug\05.XmasHat.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.XmasHat\bin\Debug\05.XmasHat.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.XmasHat\bin\Debug\05.XmasHat.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.XmasHat\obj\Debug\05.XmasHat.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.XmasHat\obj\Debug\05.XmasHat.pdb

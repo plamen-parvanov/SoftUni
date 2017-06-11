@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.pdb

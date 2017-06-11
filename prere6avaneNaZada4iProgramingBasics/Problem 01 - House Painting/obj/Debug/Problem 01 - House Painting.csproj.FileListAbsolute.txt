@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 01 - House Painting\bin\Debug\Problem 01 - House Painting.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 01 - House Painting\bin\Debug\Problem 01 - House Painting.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 01 - House Painting\bin\Debug\Problem 01 - House Painting.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 01 - House Painting\obj\Debug\Problem 01 - House Painting.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 01 - House Painting\obj\Debug\Problem 01 - House Painting.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 01 - House Painting\obj\Debug\Problem 01 - House Painting.pdb

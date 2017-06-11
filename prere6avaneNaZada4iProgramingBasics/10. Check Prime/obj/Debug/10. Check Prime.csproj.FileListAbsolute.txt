@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

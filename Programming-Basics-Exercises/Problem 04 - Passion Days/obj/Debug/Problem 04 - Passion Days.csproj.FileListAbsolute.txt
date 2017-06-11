@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 04 - Passion Days\bin\Debug\Problem 04 - Passion Days.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 04 - Passion Days\bin\Debug\Problem 04 - Passion Days.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 04 - Passion Days\bin\Debug\Problem 04 - Passion Days.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 04 - Passion Days\obj\Debug\Problem 04 - Passion Days.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 04 - Passion Days\obj\Debug\Problem 04 - Passion Days.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 04 - Passion Days\obj\Debug\Problem 04 - Passion Days.pdb

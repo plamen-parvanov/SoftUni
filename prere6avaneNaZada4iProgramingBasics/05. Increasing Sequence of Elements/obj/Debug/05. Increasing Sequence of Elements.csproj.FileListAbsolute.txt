@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Increasing Sequence of Elements\bin\Debug\_05.Increasing_Sequence_of_Elements.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Increasing Sequence of Elements\bin\Debug\_05.Increasing_Sequence_of_Elements.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Increasing Sequence of Elements\bin\Debug\_05.Increasing_Sequence_of_Elements.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Increasing Sequence of Elements\obj\Debug\05. Increasing Sequence of Elements.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Increasing Sequence of Elements\obj\Debug\_05.Increasing_Sequence_of_Elements.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Increasing Sequence of Elements\obj\Debug\_05.Increasing_Sequence_of_Elements.pdb

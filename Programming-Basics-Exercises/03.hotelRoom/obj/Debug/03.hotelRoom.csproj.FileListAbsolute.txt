@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.hotelRoom\bin\Debug\03.hotelRoom.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.hotelRoom\bin\Debug\03.hotelRoom.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.hotelRoom\bin\Debug\03.hotelRoom.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.hotelRoom\obj\Debug\03.hotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.hotelRoom\obj\Debug\03.hotelRoom.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.hotelRoom\obj\Debug\03.hotelRoom.pdb

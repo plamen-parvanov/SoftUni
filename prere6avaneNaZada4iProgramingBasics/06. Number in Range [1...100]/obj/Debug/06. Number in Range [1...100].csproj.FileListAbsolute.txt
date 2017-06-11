@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Number in Range [1...100]\obj\Debug\_06.Number_in_Range__1._._._100_.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Number in Range [1...100]\obj\Debug\_06.Number_in_Range__1._._._100_.pdb

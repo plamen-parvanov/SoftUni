@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Vacation\bin\Debug\Problem 03 - Vacation.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Vacation\obj\Debug\Problem 03 - Vacation.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Vacation\bin\Debug\Problem 03 - Vacation.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Vacation\bin\Debug\Problem 03 - Vacation.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Vacation\obj\Debug\Problem 03 - Vacation.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Vacation\obj\Debug\Problem 03 - Vacation.pdb

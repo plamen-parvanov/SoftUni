@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04 - Game Of Intervals\bin\Debug\04 - Game Of Intervals.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04 - Game Of Intervals\bin\Debug\04 - Game Of Intervals.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04 - Game Of Intervals\bin\Debug\04 - Game Of Intervals.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04 - Game Of Intervals\obj\Debug\04 - Game Of Intervals.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04 - Game Of Intervals\obj\Debug\04 - Game Of Intervals.pdb

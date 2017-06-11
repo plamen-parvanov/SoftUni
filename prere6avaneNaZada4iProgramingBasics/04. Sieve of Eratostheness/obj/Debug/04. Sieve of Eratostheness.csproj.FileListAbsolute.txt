@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Sieve of Eratostheness\bin\Debug\_04.Sieve_of_Eratostheness.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Sieve of Eratostheness\obj\Debug\04. Sieve of Eratostheness.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Sieve of Eratostheness\bin\Debug\_04.Sieve_of_Eratostheness.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Sieve of Eratostheness\bin\Debug\_04.Sieve_of_Eratostheness.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Sieve of Eratostheness\obj\Debug\_04.Sieve_of_Eratostheness.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Sieve of Eratostheness\obj\Debug\_04.Sieve_of_Eratostheness.pdb

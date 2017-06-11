@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.3 Equal Numbers\bin\Debug\16.3 Equal Numbers.exe.config
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.3 Equal Numbers\obj\Debug\16.3 Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.3 Equal Numbers\bin\Debug\16.3 Equal Numbers.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.3 Equal Numbers\bin\Debug\16.3 Equal Numbers.pdb
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.3 Equal Numbers\obj\Debug\16.3 Equal Numbers.exe
+C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.3 Equal Numbers\obj\Debug\16.3 Equal Numbers.pdb

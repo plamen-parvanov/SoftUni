@@ -1,0 +1,6 @@
+c:\users\parvanovi\documents\visual studio 2015\Projects\Greetings\Greetings\bin\Debug\Greetings.exe.config
+c:\users\parvanovi\documents\visual studio 2015\Projects\Greetings\Greetings\bin\Debug\Greetings.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\Greetings\Greetings\bin\Debug\Greetings.pdb
+c:\users\parvanovi\documents\visual studio 2015\Projects\Greetings\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+c:\users\parvanovi\documents\visual studio 2015\Projects\Greetings\Greetings\obj\Debug\Greetings.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\Greetings\Greetings\obj\Debug\Greetings.pdb

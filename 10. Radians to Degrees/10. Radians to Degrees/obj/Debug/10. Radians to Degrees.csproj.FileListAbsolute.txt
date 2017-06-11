@@ -1,0 +1,5 @@
+c:\users\parvanovi\documents\visual studio 2015\Projects\10. Radians to Degrees\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.exe.config
+c:\users\parvanovi\documents\visual studio 2015\Projects\10. Radians to Degrees\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\10. Radians to Degrees\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.pdb
+c:\users\parvanovi\documents\visual studio 2015\Projects\10. Radians to Degrees\10. Radians to Degrees\obj\Debug\_10.Radians_to_Degrees.exe
+c:\users\parvanovi\documents\visual studio 2015\Projects\10. Radians to Degrees\10. Radians to Degrees\obj\Debug\_10.Radians_to_Degrees.pdb

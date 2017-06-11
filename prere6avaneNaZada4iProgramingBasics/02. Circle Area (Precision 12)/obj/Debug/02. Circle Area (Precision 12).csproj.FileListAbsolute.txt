@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Circle Area (Precision 12)\obj\Debug\_02.Circle_Area__Precision_12_.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Circle Area (Precision 12)\obj\Debug\_02.Circle_Area__Precision_12_.pdb
