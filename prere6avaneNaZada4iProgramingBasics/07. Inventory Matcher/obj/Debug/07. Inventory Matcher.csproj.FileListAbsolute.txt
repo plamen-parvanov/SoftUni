@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Inventory Matcher\obj\Debug\07. Inventory Matcher.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.pdb

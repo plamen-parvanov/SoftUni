@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Heists\bin\Debug\_06.Heists.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Heists\bin\Debug\_06.Heists.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Heists\bin\Debug\_06.Heists.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Heists\obj\Debug\06. Heists.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Heists\obj\Debug\_06.Heists.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Heists\obj\Debug\_06.Heists.pdb

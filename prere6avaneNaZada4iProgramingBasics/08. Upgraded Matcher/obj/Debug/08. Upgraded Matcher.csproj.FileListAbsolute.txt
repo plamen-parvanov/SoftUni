@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Upgraded Matcher\bin\Debug\_08.Upgraded_Matcher.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Upgraded Matcher\bin\Debug\_08.Upgraded_Matcher.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Upgraded Matcher\bin\Debug\_08.Upgraded_Matcher.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Upgraded Matcher\obj\Debug\08. Upgraded Matcher.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Upgraded Matcher\obj\Debug\_08.Upgraded_Matcher.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Upgraded Matcher\obj\Debug\_08.Upgraded_Matcher.pdb
