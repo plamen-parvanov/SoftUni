@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count Numbers\obj\Debug\07. Count Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

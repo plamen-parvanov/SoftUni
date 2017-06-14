@@ -2,64 +2,41 @@
 {
     using System;
     using System.Linq;
+    using System.Collections.Generic;
 
     public class Arrays
     {
 
         public static void Main()
         {
-            var arr = Console.ReadLine().Split().ToArray();
+            var inputArr = Console.ReadLine().Split().ToArray();
+            var numberCommands = int.Parse(Console.ReadLine());
 
-            ReplaceEqualElementsWithEmptyString(arr);
-
-            int cntr = CountElementsDiffrentFromEmpty(arr);
-
-            var distinctArr = new string[cntr];
-            int j = 0;
-
-            for (int i = 0; i < distinctArr.Length; i++)
+            for (int i = 0; i < numberCommands; i++)
             {
-                for (; j < arr.Length; j++)
+                var command = Console.ReadLine().Split().ToArray();
+
+                switch (command[0])
                 {
-                    if (arr[j] != string.Empty)
-                    {
-                        distinctArr[i] = arr[j];
+                    case "Distinct":
+                        inputArr = inputArr.Distinct().ToArray();
                         break;
-                    }
+
+                    case "Reverse":
+                        inputArr = inputArr.Reverse().ToArray();
+                        break;
+
+                    case "Replace":
+                        var indexToReplace = int.Parse(command[1]);
+                        var stringToReplace = command[2];
+                        inputArr[indexToReplace] = stringToReplace;
+                        break;
                 }
+
             }
 
-            Console.WriteLine(string.Join("-", distinctArr));
+            Console.WriteLine(string.Join(", ", inputArr));
 
-        }
-
-        public static int CountElementsDiffrentFromEmpty(string[] arr)
-        {
-            int cntr = 0;
-
-            foreach (var item in arr)
-            {
-                if (item != "")
-                {
-                    cntr++;
-                }
-            }
-
-            return cntr;
-        }
-
-        public static void ReplaceEqualElementsWithEmptyString(string[] arr)
-        {
-            for (int i = 0; i < arr.Length; i++)
-            {
-                for (int j = i + 1; j < arr.Length; j++)
-                {
-                    if (arr[i] == arr[j])
-                    {
-                        arr[i] = string.Empty;
-                    }
-                }
-            }
         }
     }
 }

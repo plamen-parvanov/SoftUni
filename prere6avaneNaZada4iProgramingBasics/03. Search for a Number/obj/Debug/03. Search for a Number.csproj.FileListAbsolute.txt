@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Search for a Number\obj\Debug\03. Search for a Number.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.pdb

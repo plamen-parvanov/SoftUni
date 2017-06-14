@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Safe Manipulation\obj\Debug\03. Safe Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.pdb
