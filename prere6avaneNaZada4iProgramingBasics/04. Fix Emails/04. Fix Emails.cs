@@ -18,12 +18,9 @@
             {
                 var name = input;
                 var email = Console.ReadLine();
-
                 var emailEndArr = email.Split('.').Reverse().ToArray();
-                var emailEnd = emailEndArr[0];
               
-
-                if (emailEnd != "us" && emailEnd != "uk")
+                if (emailEndArr[0] != "us" && emailEndArr[0] != "uk")
                 {
                     emailBook[name] = email;
                 }
