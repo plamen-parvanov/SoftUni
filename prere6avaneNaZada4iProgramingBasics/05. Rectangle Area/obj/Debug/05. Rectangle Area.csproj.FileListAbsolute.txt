@@ -1,0 +1,6 @@
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rectangle Area\obj\Debug\05. Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rectangle Area\obj\Debug\_05.Rectangle_Area.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rectangle Area\obj\Debug\_05.Rectangle_Area.pdb
