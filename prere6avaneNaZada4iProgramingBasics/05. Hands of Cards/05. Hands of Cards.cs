@@ -25,7 +25,7 @@
             PrintPointPerPlayer(totalPointPerPlayer);
         }
 
-        private static Dictionary<string, string> AddAllCardsPerPlayerInDict()
+        public static Dictionary<string, string> AddAllCardsPerPlayerInDict()
         {
             var input = Console.ReadLine().Split(':');
             var cardsEachPlayer = new Dictionary<string, string>();
