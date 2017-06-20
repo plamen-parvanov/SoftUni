@@ -11,21 +11,34 @@
 
         public static void Main()
         {
-            var input = Console.ReadLine().Split(' ', ':').ToArray();
+            var inputTime = Console.ReadLine().Split().ToArray();
+            var timeDict = InitialiseDictionary(inputTime);
 
-            var timesDict = new Dictionary<int, int>();
+            timeDict = timeDict.OrderBy(v => v.Value).ToDictionary(pair => pair.Key, pair => pair.Value);
 
-            for (int i = 0; i < input.Length; i += 2)
+            Console.WriteLine(string.Join(", ", timeDict.Keys));
+
+        }
+
+        public static Dictionary<string, int> InitialiseDictionary(string[] inputTime)
+        {
+            var timeDict = new Dictionary<string, int>();
+
+            for (int i = 0; i < inputTime.Length; i++)
             {
-                timesDict[int.Parse(input[i])] = int.Parse(input[i + 1]); 
+                var time = inputTime[i];
+                timeDict[time] = GetTimeInMinutes(time);
             }
 
-            var a = 0;
+            return timeDict;
+        }
 
-            
+        public static int GetTimeInMinutes(string time)
+        {
+            var timeArr = time.Split(':').Select(int.Parse).ToArray();
+            var timeInSeconds = timeArr[0] * 60 + timeArr[1];
 
-            
-
+            return timeInSeconds;
         }
     }
 }
