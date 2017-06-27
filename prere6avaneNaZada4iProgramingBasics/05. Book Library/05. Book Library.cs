@@ -31,7 +31,7 @@
         {
             var dict = new Dictionary<string, double>();
             var ListOfAuthors = new List<string>();
-
+        
             ListOfAuthors = library.listOfBooks.Select(a => a.author).Distinct().ToList();
 
             foreach (var author in ListOfAuthors)
