@@ -5,19 +5,13 @@
 
     public class Student
     {
-        public Student()
-        {
-            this.grades = new List<double>();
-        }
+        public string Name { get; set; }
 
-        public string name;
-        public List<double> grades;
-    
-        public double AverageGrade()
-        {
-           // get { return Grade.Average(); }    bez skobite() na metoda
+        public List<double> Grade { get; set; }
 
-            return this.grades.Average();
+        public double AverageGrade
+        {
+            get { return Grade.Average(); }
         }
 
     }
