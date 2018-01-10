@@ -3,3 +3,4 @@ C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProg
 C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.pdb
 C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.exe
 C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.csprojResolveAssemblyReference.cache

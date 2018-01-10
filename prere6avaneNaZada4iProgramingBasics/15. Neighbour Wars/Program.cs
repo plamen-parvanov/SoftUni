@@ -16,17 +16,11 @@ namespace _15.Neighbour_Wars
             string attack = string.Empty;
             string defenderName = string.Empty;
             int defenderHealth = 0;
-            int cntr = 1;
 
             for (int i = 1; ; i++)
             {
-                if (cntr == 4)
-                {
-                    healthPesho += 10;
-                    healthGosho += 10;
-                    cntr = 1;
-                }
-                if (i % 2 != 0)
+               
+                if (i % 2 == 1)
                 {
                     attackerName = "Pesho";
                     attack = "Roundhouse kick";
@@ -42,16 +36,22 @@ namespace _15.Neighbour_Wars
                     healthPesho -= damageGosho;
                     defenderHealth = healthPesho;
                 }
+
                 if (defenderHealth <= 0)
                 {
                     Console.WriteLine($"{attackerName} won in {i}th round.");
                     break;
                 }
 
-                cntr++;
-
                 Console.WriteLine(
-                    $"{attackerName} used {attack} and reduced {defenderName} to {defenderHealth} health.");              
+                    $"{attackerName} used {attack} and reduced {defenderName} to {defenderHealth} health.");
+
+                if (i % 3 == 0)
+                {
+                    healthPesho += 10;
+                    healthGosho += 10;
+                }
+
             }
 
         }
