@@ -1,1 +1,6 @@
 C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\proba Arrays\bin\Debug\proba Arrays.exe.config
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\proba Arrays\bin\Debug\proba Arrays.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\proba Arrays\bin\Debug\proba Arrays.pdb
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\proba Arrays\obj\Debug\proba Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\proba Arrays\obj\Debug\proba Arrays.exe
+C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\proba Arrays\obj\Debug\proba Arrays.pdb
