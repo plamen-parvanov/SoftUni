@@ -19,7 +19,7 @@ namespace _04.JSON_Parse
 
         public static void ReadInputLine()
         {
-            var input = Console.ReadLine();
+            var input = Console.ReadLine();   // ili substring(2, input - 4)
             var studentsArr = input.Remove(input.Length - 2, 2).Remove(0, 2)
                 .Split(new[] { "},{" }, StringSplitOptions.RemoveEmptyEntries);
 

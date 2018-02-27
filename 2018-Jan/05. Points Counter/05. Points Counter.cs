@@ -84,8 +84,8 @@ namespace _05.Points_Counter
 
         public static Player GetTopPlayer(List<Player> players)
         {
-            var ordered = players.OrderByDescending(x => x.Points).ToList();
-            return ordered[0];
+            var ordered = players.OrderByDescending(x => x.Points).ToList(); // .First()
+            return ordered[0]; 
         }
     }
 }
