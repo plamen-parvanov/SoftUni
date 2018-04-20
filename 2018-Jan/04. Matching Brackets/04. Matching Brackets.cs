@@ -5,24 +5,28 @@
 
     public class Problem04
     {
-
+        
         public static void Main()
         {
+            var indexes = new Stack<int>();
+            var input = Console.ReadLine();
 
-            int[,,] matrix =
+            for (int i = 0; i < input.Length; i++)
             {
+                var currSymbol = input[i];
+
+                if (currSymbol == '(')
                 {
-                    { 1, 1 },
-                    { 2, 4 }
-                },
-                {
-                    { 5, 0},
-                    { 6, 44 }
+                    indexes.Push(i);
                 }
-            };
+                else if (currSymbol == ')')
+                {
+                    var openBrecketIndex = indexes.Pop();
+                    var length = i - openBrecketIndex + 1;
 
-            Console.WriteLine(matrix[0, 1, 0]);
+                    Console.WriteLine(input.Substring(openBrecketIndex, length));
+                }
+            }
         }
-
     }
 }
