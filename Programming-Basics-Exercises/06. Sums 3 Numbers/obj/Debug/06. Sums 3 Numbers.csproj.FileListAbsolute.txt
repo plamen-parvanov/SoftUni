@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Sums 3 Numbers\bin\Debug\_06.Sums_3_Numbers.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Sums 3 Numbers\bin\Debug\_06.Sums_3_Numbers.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Sums 3 Numbers\bin\Debug\_06.Sums_3_Numbers.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Sums 3 Numbers\obj\Debug\06. Sums 3 Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Sums 3 Numbers\obj\Debug\_06.Sums_3_Numbers.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Sums 3 Numbers\obj\Debug\_06.Sums_3_Numbers.pdb

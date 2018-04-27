@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\newXmassTree\bin\Debug\newXmassTree.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\newXmassTree\bin\Debug\newXmassTree.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\newXmassTree\bin\Debug\newXmassTree.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\newXmassTree\obj\Debug\newXmassTree.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\newXmassTree\obj\Debug\newXmassTree.pdb

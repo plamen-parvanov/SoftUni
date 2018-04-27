@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem05-Axe\bin\Debug\Problem05-Axe.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem05-Axe\bin\Debug\Problem05-Axe.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem05-Axe\bin\Debug\Problem05-Axe.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem05-Axe\obj\Debug\Problem05-Axe.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem05-Axe\obj\Debug\Problem05-Axe.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem05-Axe\obj\Debug\Problem05-Axe.pdb

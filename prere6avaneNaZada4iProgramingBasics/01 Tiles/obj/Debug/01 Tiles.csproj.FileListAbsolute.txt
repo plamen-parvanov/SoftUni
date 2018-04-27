@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01 Tiles\bin\Debug\01 Tiles.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01 Tiles\bin\Debug\01 Tiles.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01 Tiles\bin\Debug\01 Tiles.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01 Tiles\obj\Debug\01 Tiles.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01 Tiles\obj\Debug\01 Tiles.pdb

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. School Camp\bin\Debug\_03.School_Camp.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. School Camp\bin\Debug\_03.School_Camp.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. School Camp\bin\Debug\_03.School_Camp.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. School Camp\obj\Debug\03. School Camp.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. School Camp\obj\Debug\_03.School_Camp.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. School Camp\obj\Debug\_03.School_Camp.pdb

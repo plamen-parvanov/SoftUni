@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07 Sum Seconds\bin\Debug\07 Sum Seconds.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07 Sum Seconds\bin\Debug\07 Sum Seconds.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07 Sum Seconds\bin\Debug\07 Sum Seconds.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07 Sum Seconds\obj\Debug\07 Sum Seconds.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07 Sum Seconds\obj\Debug\07 Sum Seconds.pdb

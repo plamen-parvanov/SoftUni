@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Triangle Area\bin\Debug\_08.Triangle_Area.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Triangle Area\bin\Debug\_08.Triangle_Area.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Triangle Area\bin\Debug\_08.Triangle_Area.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Triangle Area\obj\Debug\_08.Triangle_Area.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\08. Triangle Area\obj\Debug\_08.Triangle_Area.pdb

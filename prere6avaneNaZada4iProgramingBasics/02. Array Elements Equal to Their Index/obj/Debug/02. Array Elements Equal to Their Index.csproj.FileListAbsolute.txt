@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Array Elements Equal to Their Index\bin\Debug\_02.Array_Elements_Equal_to_Their_Index.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Array Elements Equal to Their Index\bin\Debug\_02.Array_Elements_Equal_to_Their_Index.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Array Elements Equal to Their Index\bin\Debug\_02.Array_Elements_Equal_to_Their_Index.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Array Elements Equal to Their Index\obj\Debug\_02.Array_Elements_Equal_to_Their_Index.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Array Elements Equal to Their Index\obj\Debug\_02.Array_Elements_Equal_to_Their_Index.pdb

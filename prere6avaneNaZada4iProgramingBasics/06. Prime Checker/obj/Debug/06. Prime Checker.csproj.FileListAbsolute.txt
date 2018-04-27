@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Prime Checker\bin\Debug\_06.Prime_Checker.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Prime Checker\obj\Debug\06. Prime Checker.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Prime Checker\obj\Debug\_06.Prime_Checker.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Prime Checker\obj\Debug\_06.Prime_Checker.pdb

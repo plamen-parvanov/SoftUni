@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\sunglassesMyWay\bin\Debug\sunglassesMyWay.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\sunglassesMyWay\bin\Debug\sunglassesMyWay.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\sunglassesMyWay\bin\Debug\sunglassesMyWay.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\sunglassesMyWay\obj\Debug\sunglassesMyWay.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\sunglassesMyWay\obj\Debug\sunglassesMyWay.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\sunglassesMyWay\obj\Debug\sunglassesMyWay.pdb

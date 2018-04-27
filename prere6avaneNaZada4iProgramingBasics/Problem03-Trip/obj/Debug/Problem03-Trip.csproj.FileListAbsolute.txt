@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem03-Trip\bin\Debug\Problem03-Trip.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem03-Trip\bin\Debug\Problem03-Trip.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem03-Trip\bin\Debug\Problem03-Trip.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem03-Trip\obj\Debug\Problem03-Trip.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem03-Trip\obj\Debug\Problem03-Trip.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem03-Trip\obj\Debug\Problem03-Trip.pdb

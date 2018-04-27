@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Rotate Array of Strings\bin\Debug\_04.Rotate_Array_of_Strings.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Rotate Array of Strings\bin\Debug\_04.Rotate_Array_of_Strings.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Rotate Array of Strings\bin\Debug\_04.Rotate_Array_of_Strings.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Rotate Array of Strings\obj\Debug\04. Rotate Array of Strings.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Rotate Array of Strings\obj\Debug\_04.Rotate_Array_of_Strings.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Rotate Array of Strings\obj\Debug\_04.Rotate_Array_of_Strings.pdb

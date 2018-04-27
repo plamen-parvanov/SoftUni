@@ -1,6 +1,0 @@
-c:\users\parvanovi\documents\visual studio 2015\Projects\HelloCShrap\HelloCShrap\bin\Debug\HelloCShrap.exe.config
-c:\users\parvanovi\documents\visual studio 2015\Projects\HelloCShrap\HelloCShrap\bin\Debug\HelloCShrap.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\HelloCShrap\HelloCShrap\bin\Debug\HelloCShrap.pdb
-c:\users\parvanovi\documents\visual studio 2015\Projects\HelloCShrap\HelloCShrap\obj\Debug\HelloCShrap.csprojResolveAssemblyReference.cache
-c:\users\parvanovi\documents\visual studio 2015\Projects\HelloCShrap\HelloCShrap\obj\Debug\HelloCShrap.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\HelloCShrap\HelloCShrap\obj\Debug\HelloCShrap.pdb

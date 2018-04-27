@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sum Arrays lab\bin\Debug\_07.Sum_Arrays_lab.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sum Arrays lab\bin\Debug\_07.Sum_Arrays_lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sum Arrays lab\bin\Debug\_07.Sum_Arrays_lab.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sum Arrays lab\obj\Debug\07. Sum Arrays lab.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sum Arrays lab\obj\Debug\_07.Sum_Arrays_lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sum Arrays lab\obj\Debug\_07.Sum_Arrays_lab.pdb

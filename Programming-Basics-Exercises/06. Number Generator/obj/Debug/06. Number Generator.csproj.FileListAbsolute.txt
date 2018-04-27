@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Number Generator\bin\Debug\_06.Number_Generator.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Number Generator\bin\Debug\_06.Number_Generator.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Number Generator\bin\Debug\_06.Number_Generator.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Number Generator\obj\Debug\_06.Number_Generator.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Number Generator\obj\Debug\_06.Number_Generator.pdb

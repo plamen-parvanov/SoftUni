@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04. Football League\bin\Debug\_04.Football_League.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04. Football League\bin\Debug\_04.Football_League.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04. Football League\bin\Debug\_04.Football_League.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04. Football League\obj\Debug\_04.Football_League.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04. Football League\obj\Debug\_04.Football_League.pdb

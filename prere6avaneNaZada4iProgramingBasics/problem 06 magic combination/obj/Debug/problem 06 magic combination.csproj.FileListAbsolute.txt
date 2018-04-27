@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 06 magic combination\bin\Debug\problem 06 magic combination.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 06 magic combination\bin\Debug\problem 06 magic combination.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 06 magic combination\bin\Debug\problem 06 magic combination.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 06 magic combination\obj\Debug\problem 06 magic combination.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 06 magic combination\obj\Debug\problem 06 magic combination.pdb

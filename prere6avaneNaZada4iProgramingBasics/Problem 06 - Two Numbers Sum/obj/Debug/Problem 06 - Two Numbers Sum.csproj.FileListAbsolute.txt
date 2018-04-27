@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 06 - Two Numbers Sum\bin\Debug\Problem 06 - Two Numbers Sum.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 06 - Two Numbers Sum\bin\Debug\Problem 06 - Two Numbers Sum.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 06 - Two Numbers Sum\bin\Debug\Problem 06 - Two Numbers Sum.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 06 - Two Numbers Sum\obj\Debug\Problem 06 - Two Numbers Sum.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 06 - Two Numbers Sum\obj\Debug\Problem 06 - Two Numbers Sum.pdb

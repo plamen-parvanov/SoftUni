@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Fibonacci\obj\Debug\12. Fibonacci.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb

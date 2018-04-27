@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.pdb

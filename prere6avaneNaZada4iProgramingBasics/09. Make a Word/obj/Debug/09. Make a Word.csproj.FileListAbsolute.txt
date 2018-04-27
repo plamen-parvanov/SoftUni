@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Make a Word\bin\Debug\_09.Make_a_Word.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Make a Word\bin\Debug\_09.Make_a_Word.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Make a Word\bin\Debug\_09.Make_a_Word.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Make a Word\obj\Debug\09. Make a Word.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Make a Word\obj\Debug\_09.Make_a_Word.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Make a Word\obj\Debug\_09.Make_a_Word.pdb

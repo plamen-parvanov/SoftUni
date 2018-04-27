@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Impress the girlfriend\bin\Debug\01.Impress the girlfriend.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Impress the girlfriend\bin\Debug\01.Impress the girlfriend.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Impress the girlfriend\bin\Debug\01.Impress the girlfriend.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Impress the girlfriend\obj\Debug\01.Impress the girlfriend.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Impress the girlfriend\obj\Debug\01.Impress the girlfriend.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\01.Impress the girlfriend\obj\Debug\01.Impress the girlfriend.pdb

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Numbers from 1 to 100\bin\Debug\_01.Numbers_from_1_to_100.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Numbers from 1 to 100\bin\Debug\_01.Numbers_from_1_to_100.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Numbers from 1 to 100\bin\Debug\_01.Numbers_from_1_to_100.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Numbers from 1 to 100\obj\Debug\01. Numbers from 1 to 100.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Numbers from 1 to 100\obj\Debug\_01.Numbers_from_1_to_100.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\01. Numbers from 1 to 100\obj\Debug\_01.Numbers_from_1_to_100.pdb

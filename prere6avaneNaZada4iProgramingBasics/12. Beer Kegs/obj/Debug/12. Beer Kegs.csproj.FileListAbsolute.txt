@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Beer Kegs\bin\Debug\_12.Beer_Kegs.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Beer Kegs\bin\Debug\_12.Beer_Kegs.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Beer Kegs\bin\Debug\_12.Beer_Kegs.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Beer Kegs\obj\Debug\_12.Beer_Kegs.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\12. Beer Kegs\obj\Debug\_12.Beer_Kegs.pdb

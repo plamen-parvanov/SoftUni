@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Count the Integers\bin\Debug\_09.Count_the_Integers.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Count the Integers\bin\Debug\_09.Count_the_Integers.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Count the Integers\bin\Debug\_09.Count_the_Integers.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Count the Integers\obj\Debug\_09.Count_the_Integers.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Count the Integers\obj\Debug\_09.Count_the_Integers.pdb

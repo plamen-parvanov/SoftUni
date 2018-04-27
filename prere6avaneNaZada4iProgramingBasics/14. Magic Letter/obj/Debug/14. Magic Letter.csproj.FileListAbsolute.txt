@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Magic Letter\bin\Debug\_14.Magic_Letter.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Magic Letter\obj\Debug\_14.Magic_Letter.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\14. Magic Letter\obj\Debug\_14.Magic_Letter.pdb

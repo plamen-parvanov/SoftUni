@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.pdb

@@ -1,6 +1,0 @@
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe.config
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Square-Area\bin\Debug\Square-Area.pdb
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Square-Area\obj\Debug\Square-Area.csprojResolveAssemblyReference.cache
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Square-Area\obj\Debug\Square-Area.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Square-Area\obj\Debug\Square-Area.pdb

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05. Draw Fort\bin\Debug\_05.Draw_Fort.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05. Draw Fort\bin\Debug\_05.Draw_Fort.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05. Draw Fort\bin\Debug\_05.Draw_Fort.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05. Draw Fort\obj\Debug\05. Draw Fort.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05. Draw Fort\obj\Debug\_05.Draw_Fort.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05. Draw Fort\obj\Debug\_05.Draw_Fort.pdb

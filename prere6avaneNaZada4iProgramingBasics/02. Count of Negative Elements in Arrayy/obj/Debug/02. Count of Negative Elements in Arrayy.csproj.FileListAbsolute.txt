@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Count of Negative Elements in Arrayy\bin\Debug\_02.Count_of_Negative_Elements_in_Arrayy.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Count of Negative Elements in Arrayy\bin\Debug\_02.Count_of_Negative_Elements_in_Arrayy.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Count of Negative Elements in Arrayy\bin\Debug\_02.Count_of_Negative_Elements_in_Arrayy.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Count of Negative Elements in Arrayy\obj\Debug\_02.Count_of_Negative_Elements_in_Arrayy.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Count of Negative Elements in Arrayy\obj\Debug\_02.Count_of_Negative_Elements_in_Arrayy.pdb

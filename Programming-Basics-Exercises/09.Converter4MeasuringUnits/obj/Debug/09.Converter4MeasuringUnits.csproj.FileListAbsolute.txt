@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09.Converter4MeasuringUnits\bin\Debug\09.Converter4MeasuringUnits.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09.Converter4MeasuringUnits\bin\Debug\09.Converter4MeasuringUnits.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09.Converter4MeasuringUnits\bin\Debug\09.Converter4MeasuringUnits.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09.Converter4MeasuringUnits\obj\Debug\09.Converter4MeasuringUnits.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09.Converter4MeasuringUnits\obj\Debug\09.Converter4MeasuringUnits.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\09.Converter4MeasuringUnits\obj\Debug\09.Converter4MeasuringUnits.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 01 - vegetable\bin\Debug\problem 01 - vegetable.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 01 - vegetable\bin\Debug\problem 01 - vegetable.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 01 - vegetable\bin\Debug\problem 01 - vegetable.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 01 - vegetable\obj\Debug\problem 01 - vegetable.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 01 - vegetable\obj\Debug\problem 01 - vegetable.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 01 - vegetable\obj\Debug\problem 01 - vegetable.pdb

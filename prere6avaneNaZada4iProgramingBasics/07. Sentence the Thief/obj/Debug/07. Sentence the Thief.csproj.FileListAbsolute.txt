@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sentence the Thief\obj\Debug\07. Sentence the Thief.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sentence the Thief\obj\Debug\_07.Sentence_the_Thief.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Sentence the Thief\obj\Debug\_07.Sentence_the_Thief.pdb

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. On Time for the Exam\bin\Debug\_03.On_Time_for_the_Exam.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. On Time for the Exam\obj\Debug\03. On Time for the Exam.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. On Time for the Exam\bin\Debug\_03.On_Time_for_the_Exam.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. On Time for the Exam\bin\Debug\_03.On_Time_for_the_Exam.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. On Time for the Exam\obj\Debug\_03.On_Time_for_the_Exam.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. On Time for the Exam\obj\Debug\_03.On_Time_for_the_Exam.pdb

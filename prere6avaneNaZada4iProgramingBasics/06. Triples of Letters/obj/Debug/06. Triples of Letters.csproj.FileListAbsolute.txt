@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.pdb

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Sum Digits\obj\Debug\09. Sum Digits.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb

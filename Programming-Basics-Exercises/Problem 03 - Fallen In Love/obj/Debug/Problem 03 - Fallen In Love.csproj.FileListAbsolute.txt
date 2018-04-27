@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Fallen In Love\bin\Debug\Problem 03 - Fallen In Love.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Fallen In Love\obj\Debug\Problem 03 - Fallen In Love.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Fallen In Love\bin\Debug\Problem 03 - Fallen In Love.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Fallen In Love\bin\Debug\Problem 03 - Fallen In Love.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Fallen In Love\obj\Debug\Problem 03 - Fallen In Love.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 03 - Fallen In Love\obj\Debug\Problem 03 - Fallen In Love.pdb

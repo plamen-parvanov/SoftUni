@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 05 buterfly\bin\Debug\problem 05 buterfly.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 05 buterfly\bin\Debug\problem 05 buterfly.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 05 buterfly\bin\Debug\problem 05 buterfly.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 05 buterfly\obj\Debug\problem 05 buterfly.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 05 buterfly\obj\Debug\problem 05 buterfly.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\problem 05 buterfly\obj\Debug\problem 05 buterfly.pdb

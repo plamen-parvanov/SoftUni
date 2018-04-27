@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Triple Sum lab\bin\Debug\_04.Triple_Sum_lab.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Triple Sum lab\bin\Debug\_04.Triple_Sum_lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Triple Sum lab\bin\Debug\_04.Triple_Sum_lab.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Triple Sum lab\obj\Debug\04. Triple Sum lab.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Triple Sum lab\obj\Debug\_04.Triple_Sum_lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Triple Sum lab\obj\Debug\_04.Triple_Sum_lab.pdb

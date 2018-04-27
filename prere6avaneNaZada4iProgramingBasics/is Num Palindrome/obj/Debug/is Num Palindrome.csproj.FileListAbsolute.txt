@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\is Num Palindrome\bin\Debug\is Num Palindrome.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\is Num Palindrome\bin\Debug\is Num Palindrome.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\is Num Palindrome\bin\Debug\is Num Palindrome.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\is Num Palindrome\obj\Debug\is Num Palindrome.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\is Num Palindrome\obj\Debug\is Num Palindrome.pdb

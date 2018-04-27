@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Rectangle with Stars\bin\Debug\_10.Rectangle_with_Stars.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Rectangle with Stars\obj\Debug\10. Rectangle with Stars.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Rectangle with Stars\bin\Debug\_10.Rectangle_with_Stars.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Rectangle with Stars\bin\Debug\_10.Rectangle_with_Stars.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Rectangle with Stars\obj\Debug\_10.Rectangle_with_Stars.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Rectangle with Stars\obj\Debug\_10.Rectangle_with_Stars.pdb

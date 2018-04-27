@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Excellent-or-Not\bin\Debug\03.Excellent-or-Not.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Excellent-or-Not\bin\Debug\03.Excellent-or-Not.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Excellent-or-Not\bin\Debug\03.Excellent-or-Not.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Excellent-or-Not\obj\Debug\03.Excellent-or-Not.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Excellent-or-Not\obj\Debug\03.Excellent-or-Not.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03.Excellent-or-Not\obj\Debug\03.Excellent-or-Not.csprojResolveAssemblyReference.cache

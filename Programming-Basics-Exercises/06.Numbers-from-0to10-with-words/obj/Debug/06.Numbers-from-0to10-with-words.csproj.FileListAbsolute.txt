@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.Numbers-from-0to10-with-words\bin\Debug\06.Numbers-from-0to10-with-words.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.Numbers-from-0to10-with-words\bin\Debug\06.Numbers-from-0to10-with-words.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.Numbers-from-0to10-with-words\bin\Debug\06.Numbers-from-0to10-with-words.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.Numbers-from-0to10-with-words\obj\Debug\06.Numbers-from-0to10-with-words.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.Numbers-from-0to10-with-words\obj\Debug\06.Numbers-from-0to10-with-words.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.Numbers-from-0to10-with-words\obj\Debug\06.Numbers-from-0to10-with-words.csprojResolveAssemblyReference.cache

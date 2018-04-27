@@ -1,5 +1,0 @@
-c:\users\parvanovi\documents\visual studio 2015\Projects\Programming-Basics-Exercises\HelloCSharp\bin\Debug\HelloCSharp.exe.config
-c:\users\parvanovi\documents\visual studio 2015\Projects\Programming-Basics-Exercises\HelloCSharp\bin\Debug\HelloCSharp.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\Programming-Basics-Exercises\HelloCSharp\bin\Debug\HelloCSharp.pdb
-c:\users\parvanovi\documents\visual studio 2015\Projects\Programming-Basics-Exercises\HelloCSharp\obj\Debug\HelloCSharp.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\Programming-Basics-Exercises\HelloCSharp\obj\Debug\HelloCSharp.pdb

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.cleverLyli\bin\Debug\04.cleverLyli.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.cleverLyli\obj\Debug\04.cleverLyli.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.cleverLyli\bin\Debug\04.cleverLyli.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.cleverLyli\bin\Debug\04.cleverLyli.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.cleverLyli\obj\Debug\04.cleverLyli.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.cleverLyli\obj\Debug\04.cleverLyli.pdb

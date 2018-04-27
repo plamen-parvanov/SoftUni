@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Concatenate Data\obj\Debug\_04.Concatenate_Data.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\04. Concatenate Data\obj\Debug\_04.Concatenate_Data.pdb

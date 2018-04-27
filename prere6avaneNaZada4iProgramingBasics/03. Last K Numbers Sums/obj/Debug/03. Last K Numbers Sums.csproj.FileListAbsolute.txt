@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb

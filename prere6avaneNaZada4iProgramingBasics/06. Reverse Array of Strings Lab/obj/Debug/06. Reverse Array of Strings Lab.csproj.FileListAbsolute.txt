@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Reverse Array of Strings Lab\bin\Debug\_06.Reverse_Array_of_Strings_Lab.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Reverse Array of Strings Lab\bin\Debug\_06.Reverse_Array_of_Strings_Lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Reverse Array of Strings Lab\bin\Debug\_06.Reverse_Array_of_Strings_Lab.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Reverse Array of Strings Lab\obj\Debug\_06.Reverse_Array_of_Strings_Lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\06. Reverse Array of Strings Lab\obj\Debug\_06.Reverse_Array_of_Strings_Lab.pdb

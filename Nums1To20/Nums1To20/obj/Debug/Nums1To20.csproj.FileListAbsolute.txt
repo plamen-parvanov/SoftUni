@@ -1,6 +1,0 @@
-c:\users\parvanovi\documents\visual studio 2015\Projects\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe.config
-c:\users\parvanovi\documents\visual studio 2015\Projects\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\Nums1To20\Nums1To20\bin\Debug\Nums1To20.pdb
-c:\users\parvanovi\documents\visual studio 2015\Projects\Nums1To20\Nums1To20\obj\Debug\Nums1To20.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\Nums1To20\Nums1To20\obj\Debug\Nums1To20.pdb
-c:\users\parvanovi\documents\visual studio 2015\Projects\Nums1To20\Nums1To20\obj\Debug\Nums1To20.csprojResolveAssemblyReference.cache

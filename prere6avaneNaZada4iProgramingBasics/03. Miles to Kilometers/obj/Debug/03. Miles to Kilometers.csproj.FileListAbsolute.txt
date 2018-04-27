@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb

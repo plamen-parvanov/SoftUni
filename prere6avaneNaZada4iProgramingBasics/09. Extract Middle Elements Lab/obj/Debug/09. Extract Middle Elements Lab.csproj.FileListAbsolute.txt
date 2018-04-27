@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Extract Middle Elements Lab\bin\Debug\_09.Extract_Middle_Elements_Lab.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Extract Middle Elements Lab\bin\Debug\_09.Extract_Middle_Elements_Lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Extract Middle Elements Lab\bin\Debug\_09.Extract_Middle_Elements_Lab.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Extract Middle Elements Lab\obj\Debug\09. Extract Middle Elements Lab.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Extract Middle Elements Lab\obj\Debug\_09.Extract_Middle_Elements_Lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\09. Extract Middle Elements Lab\obj\Debug\_09.Extract_Middle_Elements_Lab.pdb

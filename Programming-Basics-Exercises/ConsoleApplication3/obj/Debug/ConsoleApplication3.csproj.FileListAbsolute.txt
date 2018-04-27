@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

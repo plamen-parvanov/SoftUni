@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point on Segment\bin\Debug\_03.Point_on_Segment.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point on Segment\bin\Debug\_03.Point_on_Segment.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point on Segment\bin\Debug\_03.Point_on_Segment.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point on Segment\obj\Debug\03. Point on Segment.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point on Segment\obj\Debug\_03.Point_on_Segment.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point on Segment\obj\Debug\_03.Point_on_Segment.pdb

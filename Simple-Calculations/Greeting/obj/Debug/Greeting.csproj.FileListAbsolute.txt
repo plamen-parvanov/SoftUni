@@ -1,6 +1,0 @@
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Greeting\obj\Debug\Greeting.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\Simple-Calculations\Greeting\obj\Debug\Greeting.pdb

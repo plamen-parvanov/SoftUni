@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 01 - Cake Tycoon\bin\Debug\Problem 01 - Cake Tycoon.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 01 - Cake Tycoon\bin\Debug\Problem 01 - Cake Tycoon.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 01 - Cake Tycoon\bin\Debug\Problem 01 - Cake Tycoon.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 01 - Cake Tycoon\obj\Debug\Problem 01 - Cake Tycoon.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 01 - Cake Tycoon\obj\Debug\Problem 01 - Cake Tycoon.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 01 - Cake Tycoon\obj\Debug\Problem 01 - Cake Tycoon.pdb

@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.KombatPokemon\bin\Debug\06.KombatPokemon.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.KombatPokemon\bin\Debug\06.KombatPokemon.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.KombatPokemon\bin\Debug\06.KombatPokemon.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.KombatPokemon\obj\Debug\06.KombatPokemon.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06.KombatPokemon\obj\Debug\06.KombatPokemon.pdb

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rounding Numbers Lab\bin\Debug\_05.Rounding_Numbers_Lab.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rounding Numbers Lab\bin\Debug\_05.Rounding_Numbers_Lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rounding Numbers Lab\bin\Debug\_05.Rounding_Numbers_Lab.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rounding Numbers Lab\obj\Debug\05. Rounding Numbers Lab.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rounding Numbers Lab\obj\Debug\_05.Rounding_Numbers_Lab.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\05. Rounding Numbers Lab\obj\Debug\_05.Rounding_Numbers_Lab.pdb

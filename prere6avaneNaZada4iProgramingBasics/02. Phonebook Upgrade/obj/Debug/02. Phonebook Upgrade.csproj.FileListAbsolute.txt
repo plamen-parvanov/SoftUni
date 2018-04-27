@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Phonebook Upgrade\obj\Debug\02. Phonebook Upgrade.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb

@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb

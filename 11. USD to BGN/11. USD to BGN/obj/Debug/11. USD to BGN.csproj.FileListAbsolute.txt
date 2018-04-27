@@ -1,6 +1,0 @@
-c:\users\parvanovi\documents\visual studio 2015\Projects\11. USD to BGN\11. USD to BGN\bin\Debug\_11.USD_to_BGN.exe.config
-c:\users\parvanovi\documents\visual studio 2015\Projects\11. USD to BGN\11. USD to BGN\bin\Debug\_11.USD_to_BGN.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\11. USD to BGN\11. USD to BGN\bin\Debug\_11.USD_to_BGN.pdb
-c:\users\parvanovi\documents\visual studio 2015\Projects\11. USD to BGN\11. USD to BGN\obj\Debug\11. USD to BGN.csprojResolveAssemblyReference.cache
-c:\users\parvanovi\documents\visual studio 2015\Projects\11. USD to BGN\11. USD to BGN\obj\Debug\_11.USD_to_BGN.exe
-c:\users\parvanovi\documents\visual studio 2015\Projects\11. USD to BGN\11. USD to BGN\obj\Debug\_11.USD_to_BGN.pdb

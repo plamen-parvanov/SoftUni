@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Max Sequence of Increasing Elementss\bin\Debug\_07.Max_Sequence_of_Increasing_Elementss.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Max Sequence of Increasing Elementss\bin\Debug\_07.Max_Sequence_of_Increasing_Elementss.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Max Sequence of Increasing Elementss\bin\Debug\_07.Max_Sequence_of_Increasing_Elementss.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Max Sequence of Increasing Elementss\obj\Debug\_07.Max_Sequence_of_Increasing_Elementss.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Max Sequence of Increasing Elementss\obj\Debug\_07.Max_Sequence_of_Increasing_Elementss.pdb

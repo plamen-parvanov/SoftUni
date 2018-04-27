@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication104. Back To The Past\bin\Debug\ConsoleApplication104.Back_To_The_Past.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication104. Back To The Past\bin\Debug\ConsoleApplication104.Back_To_The_Past.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication104. Back To The Past\bin\Debug\ConsoleApplication104.Back_To_The_Past.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication104. Back To The Past\obj\Debug\ConsoleApplication104.Back_To_The_Past.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\ConsoleApplication104. Back To The Past\obj\Debug\ConsoleApplication104.Back_To_The_Past.pdb

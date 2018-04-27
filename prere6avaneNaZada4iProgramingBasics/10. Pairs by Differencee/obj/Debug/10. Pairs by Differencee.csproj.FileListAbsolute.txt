@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Pairs by Differencee\bin\Debug\_10.Pairs_by_Differencee.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Pairs by Differencee\bin\Debug\_10.Pairs_by_Differencee.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Pairs by Differencee\bin\Debug\_10.Pairs_by_Differencee.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Pairs by Differencee\obj\Debug\_10.Pairs_by_Differencee.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\10. Pairs by Differencee\obj\Debug\_10.Pairs_by_Differencee.pdb

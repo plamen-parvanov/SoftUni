@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 02 - Beer Stock\bin\Debug\Problem 02 - Beer Stock.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 02 - Beer Stock\bin\Debug\Problem 02 - Beer Stock.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 02 - Beer Stock\bin\Debug\Problem 02 - Beer Stock.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 02 - Beer Stock\obj\Debug\Problem 02 - Beer Stock.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 02 - Beer Stock\obj\Debug\Problem 02 - Beer Stock.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\Problem 02 - Beer Stock\obj\Debug\Problem 02 - Beer Stock.csprojResolveAssemblyReference.cache

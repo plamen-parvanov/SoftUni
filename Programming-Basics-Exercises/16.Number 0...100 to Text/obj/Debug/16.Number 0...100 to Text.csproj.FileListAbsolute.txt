@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.Number 0...100 to Text\bin\Debug\_16.Number_0._._._100_to_Text.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.Number 0...100 to Text\bin\Debug\_16.Number_0._._._100_to_Text.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.Number 0...100 to Text\bin\Debug\_16.Number_0._._._100_to_Text.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.Number 0...100 to Text\obj\Debug\_16.Number_0._._._100_to_Text.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\16.Number 0...100 to Text\obj\Debug\_16.Number_0._._._100_to_Text.pdb

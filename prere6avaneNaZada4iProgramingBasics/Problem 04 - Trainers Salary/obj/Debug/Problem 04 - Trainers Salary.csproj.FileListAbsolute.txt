@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 04 - Trainers Salary\bin\Debug\Problem 04 - Trainers Salary.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 04 - Trainers Salary\bin\Debug\Problem 04 - Trainers Salary.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 04 - Trainers Salary\bin\Debug\Problem 04 - Trainers Salary.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 04 - Trainers Salary\obj\Debug\Problem 04 - Trainers Salary.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 04 - Trainers Salary\obj\Debug\Problem 04 - Trainers Salary.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 04 - Trainers Salary\obj\Debug\Problem 04 - Trainers Salary.pdb

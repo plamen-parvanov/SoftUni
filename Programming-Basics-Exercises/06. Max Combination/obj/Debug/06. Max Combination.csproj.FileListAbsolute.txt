@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Max Combination\bin\Debug\_06.Max_Combination.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Max Combination\bin\Debug\_06.Max_Combination.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Max Combination\obj\Debug\_06.Max_Combination.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\06. Max Combination\obj\Debug\_06.Max_Combination.pdb

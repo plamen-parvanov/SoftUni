@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Christmas Tree\obj\Debug\_07.Christmas_Tree.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\07. Christmas Tree\obj\Debug\_07.Christmas_Tree.pdb

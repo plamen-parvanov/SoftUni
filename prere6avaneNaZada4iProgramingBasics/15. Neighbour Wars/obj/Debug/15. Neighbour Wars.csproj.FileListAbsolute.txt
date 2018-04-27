@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\15. Neighbour Wars\obj\Debug\15. Neighbour Wars.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\15. Neighbour Wars\obj\Debug\_15.Neighbour_Wars.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\15. Neighbour Wars\obj\Debug\_15.Neighbour_Wars.pdb

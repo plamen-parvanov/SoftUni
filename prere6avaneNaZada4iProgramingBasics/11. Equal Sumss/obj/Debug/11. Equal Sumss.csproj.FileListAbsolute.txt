@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. Equal Sumss\bin\Debug\_11.Equal_Sumss.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. Equal Sumss\bin\Debug\_11.Equal_Sumss.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. Equal Sumss\bin\Debug\_11.Equal_Sumss.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. Equal Sumss\obj\Debug\_11.Equal_Sumss.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\11. Equal Sumss\obj\Debug\_11.Equal_Sumss.pdb

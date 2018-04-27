@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Graeter-Number\bin\Debug\05.Graeter-Number.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Graeter-Number\bin\Debug\05.Graeter-Number.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Graeter-Number\bin\Debug\05.Graeter-Number.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Graeter-Number\obj\Debug\05.Graeter-Number.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\05.Graeter-Number\obj\Debug\05.Graeter-Number.pdb

@@ -1,6 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Enter Even Number\obj\Debug\11. Enter Even Number.csprojResolveAssemblyReference.cache
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.pdb

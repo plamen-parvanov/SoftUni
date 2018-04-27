@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.exe.config
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.pdb
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 02 - Cups\obj\Debug\Problem 02 - Cups.exe
-C:\Users\Parvanovi\documents\visual studio 2015\Projects\prere6avaneNaZada4iProgramingBasics\Problem 02 - Cups\obj\Debug\Problem 02 - Cups.pdb

@@ -1,5 +1,0 @@
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.exe.config
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.pdb
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.exe
-C:\Users\Parvanovi\Documents\Visual Studio 2015\Projects\Programming-Basics-Exercises\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.pdb
