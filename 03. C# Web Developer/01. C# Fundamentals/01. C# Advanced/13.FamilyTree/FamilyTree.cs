@@ -1,12 +1,10 @@
 ﻿using System;
 
-namespace _13.FamilyTree
+public class FamilyTree
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+
+
     }
 }
