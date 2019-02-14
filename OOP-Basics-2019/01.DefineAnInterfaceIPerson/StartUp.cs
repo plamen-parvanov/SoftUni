@@ -1,6 +1,5 @@
 ﻿namespace PersonInfo
 {
-    using Contracts;
     using System;
 
     public class StartUp

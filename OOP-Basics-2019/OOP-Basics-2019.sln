@@ -81,11 +81,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Animals", "06.Animals\06
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12.Interfaces and Abstraction - Exercise", "12.Interfaces and Abstraction - Exercise", "{444F4291-56E9-4ACC-9267-6B0AAE919E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefineAnInterfaceIPerson", "01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson.csproj", "{0466ADE6-DB18-4FF5-A328-0D65F25724EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DefineAnInterfaceIPerson", "01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson.csproj", "{0466ADE6-DB18-4FF5-A328-0D65F25724EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Ferrari", "03.Ferrari\03.Ferrari.csproj", "{AA1D4966-F26A-4443-8567-DDAE4E257E78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Ferrari", "03.Ferrari\03.Ferrari.csproj", "{AA1D4966-F26A-4443-8567-DDAE4E257E78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Telephony", "04.Telephony\04.Telephony.csproj", "{70B0573E-1F28-42C1-9DAB-6FE65B789BB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Telephony", "04.Telephony\04.Telephony.csproj", "{70B0573E-1F28-42C1-9DAB-6FE65B789BB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.BorderControl", "05.BorderControl\05.BorderControl.csproj", "{72E8B1DA-D4B4-44A2-AFB5-288DB12C566E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MilitaryElite", "08.MilitaryElite\08.MilitaryElite.csproj", "{B748A010-61B9-4322-9391-01DB5B53FF83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -229,6 +233,14 @@ Global
 		{70B0573E-1F28-42C1-9DAB-6FE65B789BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70B0573E-1F28-42C1-9DAB-6FE65B789BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70B0573E-1F28-42C1-9DAB-6FE65B789BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E8B1DA-D4B4-44A2-AFB5-288DB12C566E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E8B1DA-D4B4-44A2-AFB5-288DB12C566E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E8B1DA-D4B4-44A2-AFB5-288DB12C566E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E8B1DA-D4B4-44A2-AFB5-288DB12C566E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B748A010-61B9-4322-9391-01DB5B53FF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B748A010-61B9-4322-9391-01DB5B53FF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B748A010-61B9-4322-9391-01DB5B53FF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B748A010-61B9-4322-9391-01DB5B53FF83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -268,6 +280,8 @@ Global
 		{0466ADE6-DB18-4FF5-A328-0D65F25724EA} = {444F4291-56E9-4ACC-9267-6B0AAE919E2F}
 		{AA1D4966-F26A-4443-8567-DDAE4E257E78} = {444F4291-56E9-4ACC-9267-6B0AAE919E2F}
 		{70B0573E-1F28-42C1-9DAB-6FE65B789BB1} = {444F4291-56E9-4ACC-9267-6B0AAE919E2F}
+		{72E8B1DA-D4B4-44A2-AFB5-288DB12C566E} = {444F4291-56E9-4ACC-9267-6B0AAE919E2F}
+		{B748A010-61B9-4322-9391-01DB5B53FF83} = {444F4291-56E9-4ACC-9267-6B0AAE919E2F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {23F68658-4F35-4CC8-A227-078A6C410BAD}

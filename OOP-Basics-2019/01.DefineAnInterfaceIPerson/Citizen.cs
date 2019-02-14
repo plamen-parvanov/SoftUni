@@ -1,7 +1,5 @@
 ﻿namespace PersonInfo
 {
-    using Contracts;
-
     public class Citizen : IPerson, IIdentifiable, IBirthable
     {
         public Citizen(string name, int age, string id, string birthdate)
