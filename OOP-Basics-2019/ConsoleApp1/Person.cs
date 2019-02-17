@@ -9,7 +9,7 @@
             this.Age = age;
         }
 
-        public string Info { get; set; } = "person";
+        public virtual string Info { get; set; } = "person";
 
         public virtual int Age { get; set; } = 1;
         

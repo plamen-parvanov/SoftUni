@@ -8,7 +8,7 @@
         {
         }
 
-        public string Info { get; set; } = "teacher";
+        public override string Info { get; set; } = "teacher";
 
         public override int Age { get; set; } = 100;
 
