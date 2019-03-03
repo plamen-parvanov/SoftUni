@@ -60,12 +60,12 @@
 
         public static void AttackSameFraction(Character first, Character second)
         {
-            var firstFractionName = first.Faction.ToString();
-            var secondFractionName = second.Faction.ToString();
+            var firstFraction = first.Faction;
+            var secondFraction = second.Faction;
 
-            if (firstFractionName == secondFractionName)
+            if (firstFraction == secondFraction)
             {
-                throw new ArgumentException($"Friendly fire! Both characters are from {firstFractionName} faction!");
+                throw new ArgumentException($"Friendly fire! Both characters are from {firstFraction} faction!");
             }
         }
 

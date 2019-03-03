@@ -1,6 +1,5 @@
 ﻿namespace DungeonsAndCodeWizards.Core
 {
-    using DungeonsAndCodeWizards.Controllers;
     using System;
     using System.Linq;
     using System.Text;
@@ -61,9 +60,9 @@
 
         private static void Execute(string inputLine)
         {
-            var args = inputLine.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            var command = args[0];
-            args = args.Skip(1).ToArray();
+            var input = inputLine.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            var command = input[0];
+            var args = input.Skip(1).ToArray();
 
             var result = string.Empty;
 

@@ -6,9 +6,9 @@
 
     public abstract class Bag
     {
-        private List<Item> items;
+        private readonly List<Item> items;
 
-        public Bag(int capacity)
+        protected Bag(int capacity)
         {
             this.Capacity = capacity;
             this.items = new List<Item>();
@@ -25,18 +25,17 @@
             Validator.IsBagFull(this.Load, item.Weight, this.Capacity);
 
             this.items.Add(item);
-
         }
 
         public Item GetItem(string name)
         {
             Validator.IsBagEmpty(this.items.Count);
 
-            var item = items.FirstOrDefault(i => i.GetType().Name == name);
+            var item = this.items.FirstOrDefault(i => i.GetType().Name == name);
 
             Validator.DoesItemExist(name, item);
 
-            items.Remove(item);
+            this.items.Remove(item);
 
             return item;
 

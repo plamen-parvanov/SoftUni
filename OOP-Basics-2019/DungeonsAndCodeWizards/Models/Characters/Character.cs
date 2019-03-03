@@ -12,7 +12,7 @@
         private double armor;
         private string name;
 
-        public Character(string name, double health, double armor, double abilityPoints,
+        protected Character(string name, double health, double armor, double abilityPoints,
             Bag bag, Faction faction)
         {
             this.Name = name;

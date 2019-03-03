@@ -5,7 +5,7 @@
 
     public abstract class Item
     {
-        public Item(int weight)
+        protected Item(int weight)
         {
             this.Weight = weight;
         }
