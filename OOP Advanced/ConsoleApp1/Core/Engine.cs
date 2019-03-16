@@ -16,7 +16,7 @@
 
         public void Run()
         {
-            ReadAppenders(commandInterpreter);
+            ReadAppenders();
 
             ReadMessages();
 
@@ -40,7 +40,7 @@
             }
         }
 
-        private void ReadAppenders(CommandInterpreter commandInterpreter)
+        private void ReadAppenders()
         {
             var n = int.Parse(Console.ReadLine());
 

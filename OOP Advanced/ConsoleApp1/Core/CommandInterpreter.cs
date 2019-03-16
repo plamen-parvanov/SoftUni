@@ -30,7 +30,7 @@
         {
             var appender = CreateAppender(args);
 
-            appenders.Add(appender);
+            this.appenders.Add(appender);
         }
 
         public void AddMessage(string[] args)
@@ -68,6 +68,7 @@
             {
                 appender.ReportLevel = Enum.Parse<ReportLevel>(args[2], true);
             }
+
             return appender;
         }
 

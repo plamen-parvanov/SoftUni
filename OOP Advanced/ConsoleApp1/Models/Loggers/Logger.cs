@@ -9,26 +9,9 @@
     {
         private readonly IList<IAppender> appenders;
 
-        public Logger()
+        public Logger(params IAppender[] appenders)
         {
-            this.appenders = new List<IAppender>();
-        }
-
-        public Logger(IAppender iAppender) : this()
-        {
-            this.appenders.Add(iAppender);
-        }
-
-        public Logger(IAppender firstAppender, IAppender secondAppender) 
-            : this(firstAppender)
-        {
-            this.appenders.Add(secondAppender);
-        }
-
-        public Logger(IAppender firstAppender, IAppender secondAppender, IAppender thirdAppender)
-           : this(firstAppender, secondAppender)
-        {
-            this.appenders.Add(thirdAppender);
+            this.appenders = new List<IAppender>(appenders);
         }
 
         public void Info(string dateTime, string message)
