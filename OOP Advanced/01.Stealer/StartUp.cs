@@ -3,7 +3,7 @@
     public static void Main()
     {
         var spy = new Spy();
-        var result = spy.CollectGettersAndSetters("Hacker");
+        var result = spy.CollectGettersAndSetters("System.Text.StringBuilder");
         System.Console.WriteLine(result);
     }
 }

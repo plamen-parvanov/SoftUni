@@ -45,28 +45,73 @@ public class Spy
 
         var type = Type.GetType(className);
 
-        var allMethods = type.GetMethods(BindingFlags.Public | BindingFlags.NonPublic |
-            BindingFlags.Instance);
+        var allproperties = type.GetProperties(BindingFlags.Instance | BindingFlags.NonPublic |
+            BindingFlags.Public);
 
-        AddGetterMethodsInResult(allMethods, result);
+        AddGetterMethodsInResult(allproperties, result);
 
-        AddSetterMethodsInResult(allMethods, result);
+        AddSetterMethodsInResult(allproperties, result);
 
         return result.ToString().TrimEnd();
     }
 
-    private void AddSetterMethodsInResult(MethodInfo[] allMethods, StringBuilder result)
+    public string AnalyzeAcessModifiers(string className)
     {
-        var setters = allMethods.Where(m => m.Name.StartsWith("set")).ToList();
+        var result = new StringBuilder();
 
-        setters.ForEach(s => result.AppendLine($"{s.Name} will set field of {s.GetParameters().First().ParameterType}"));
+        var type = Type.GetType(className);
+
+        CheckFieldsAccessModifiers(type, result);
+
+        CheckGettersAccessModifiers(type, result);
+
+        CheckSetersAccessModifiers(type, result);
+
+        return result.ToString().TrimEnd();
     }
 
-    private void AddGetterMethodsInResult(MethodInfo[] allMethods, StringBuilder result)
+    private void CheckSetersAccessModifiers(Type type, StringBuilder result)
     {
-        var getters = allMethods.Where(m => m.Name.StartsWith("get")).ToList();
+        var allProperties = type.GetProperties(BindingFlags.Public | BindingFlags.NonPublic |
+            BindingFlags.Instance | BindingFlags.Static);
 
-        getters.ForEach(g => result.AppendLine($"{g.Name} will return {g.ReturnType}"));
+        var nonPrivateSetters = allProperties.Where(p => p.SetMethod?.IsPublic == true).ToList();
+
+        nonPrivateSetters.ForEach(p => result.AppendLine($"{p.SetMethod.Name} have to be private!"));
+    }
+
+    private void CheckGettersAccessModifiers(Type type, StringBuilder result)
+    {
+        var allProperties = type.GetProperties(BindingFlags.Public | BindingFlags.NonPublic |
+            BindingFlags.Instance | BindingFlags.Static);
+
+        var notPublicGeters = allProperties.Where(p => p.GetMethod.IsPrivate).ToList();
+
+        notPublicGeters.ForEach(g => result.AppendLine($"{g.GetMethod.Name} have to be public!"));
+
+    }
+
+    private void CheckFieldsAccessModifiers(Type type, StringBuilder result)
+    {
+        var publicFields = type.GetFields(BindingFlags.Public | BindingFlags.Static |
+            BindingFlags.Instance).ToList();
+
+        publicFields.ForEach(f => result.AppendLine($"{f.Name} must be private!"));
+    }
+
+    private void AddSetterMethodsInResult(PropertyInfo[] allProperties, StringBuilder result)
+    {
+        var setters = allProperties.Where(m => m.SetMethod != null).ToList();
+
+        setters.ForEach(s => result.AppendLine(string.Format("{0} will set field of {1}",
+            s.SetMethod.Name, s.SetMethod.GetParameters().First().ParameterType)));
+    }
+
+    private void AddGetterMethodsInResult(PropertyInfo[] allProperties, StringBuilder result)
+    {
+        var getters = allProperties.Where(m => m.GetMethod != null).ToList();
+
+        getters.ForEach(g => result.AppendLine($"{g.GetMethod.Name} will return {g.PropertyType}"));
     }
 
     private void AddAllPrivateMethods(Type type, StringBuilder result)
